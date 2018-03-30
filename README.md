@@ -5,7 +5,7 @@ Welcome to my project! This is a `blade` framework of an initial project. Runnin
 ### Run
 
 ```sh
-git clone https://github.com/blade-samples/hello.git
+git clone https://github.com/lets-blade/hello.git
 ```
 
 Import Project to your IDE. Run `com.example.hello.Application` main method.
