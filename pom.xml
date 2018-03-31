@@ -13,7 +13,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <blade-mvc.version>2.0.7-R1</blade-mvc.version>
+        <blade-mvc.version>2.0.7-R2</blade-mvc.version>
     </properties>
 
     <dependencies>
